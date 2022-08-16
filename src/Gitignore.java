@@ -6,7 +6,7 @@ public class Gitignore {
         System.out.println("Gitignore denem 2");
         System.out.println("Gitignore denem master");
         System.out.println("Gitignore denem master2");
-
+        System.out.println("Gitignore branch2");
 
     }
 }
